@@ -1,6 +1,6 @@
 ## Hi there 👋 Carlos Fonseca
 
-🌱 I’m currently learning about DevOps. My skills are Linux, Python, Git and Docker.
+🌱 I’m currently learning about DevOps. My skills are Linux, Python, Git, Docker and Kubernetes.
 
 <!--
 **CarlosFonsecaM/CarlosFonsecaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
